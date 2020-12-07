@@ -1,0 +1,7 @@
+{
+  "name": "tobibook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
